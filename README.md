@@ -10,6 +10,5 @@
 - 👯 I’m looking to collaborate on ... cool ideas
 - 🤔 I’m looking for help with ... Software Development
 - 💬 Ask me about ... anything!
-- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i wrote a website in R
 
